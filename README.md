@@ -1,6 +1,6 @@
 # WHO Air Pollution – Executive Storytelling System
 
-⭐ Featured 6-week Data Visualization & AI Design Externship Project
+⭐ Featured 6-week Canva Data Visualization & AI Design Externship Project
 
 ---
 
