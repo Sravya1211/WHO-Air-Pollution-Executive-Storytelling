@@ -97,4 +97,8 @@ Country-level alone was insufficient to fully explain patterns, so city-level se
 ### 📊 Country-Level Exposure Ranking
 ![Country Ranking](assets/country-ranking.png)
 
+### 🍩 City-Level AQI Distribution
+![City Distribution](assets/city-distribution.png)
+
+
 
