@@ -80,12 +80,15 @@ Pollutant comparison analysis indicates PM2.5 contributes significantly to overa
 
 ---
 
-## 📂 Repository Structure
+## 🔍 Analytical Rigor & Data Responsibility
 
-- `/data` → Dataset source reference  
-- `/docs` → Methodology documentation  
-- `/template` → Reusable storytelling framework  
-- `/assets` → Exported visual outputs  
+- Used mean values for benchmarking while acknowledging sensitivity to skewed pollution distributions.
+- Evaluated limitations of country-level aggregation and applied city-level drill-down for clarity.
+- Recognized uneven geographic monitoring coverage in WHO dataset.
+- Avoided causal claims; analysis reflects correlation and exposure patterns only.
+- Considered interpretability and decision-making clarity when structuring visuals.
+
+This project prioritizes responsible interpretation alongside clear communication.  
 
 ---
 
