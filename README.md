@@ -87,3 +87,10 @@ Country-level alone was insufficient to fully explain patterns, so city-level se
 - Multi-tool visualization workflow
 - Executive-ready storytelling system design
 
+---
+
+## 📸 Sample Visual Outputs
+
+### 🌍 Global PM2.5 Distribution
+![Global PM2.5 Map](assets/projection-map.png)
+
