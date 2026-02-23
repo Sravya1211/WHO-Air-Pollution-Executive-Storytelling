@@ -2,6 +2,8 @@
 
 ⭐ 6-Week Canva Data Visualization & AI Design Externship Project
 
+**Tools:** Excel | Flourish | Canva | WHO Dataset
+
 ---
 
 ## 📌 Project Overview
