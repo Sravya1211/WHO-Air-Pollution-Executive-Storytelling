@@ -6,12 +6,15 @@
 
 ## 📌 Project Overview
 
-This project analyzes global air pollution data using the WHO dataset and transforms it into a structured executive storytelling system.
+This project develops an end-to-end air pollution analytics and executive storytelling system using the WHO Global Air Pollution dataset.
 
-Workflow:
-Excel → Flourish → Story Mode → Canva Template
+The workflow integrates:
 
-The analysis moves from macro-level global exposure to city-level distribution and pollutant driver comparison.
+Excel → Data Cleaning & Aggregation  
+Flourish → Interactive Visual Analytics & Story Mode  
+Canva → Reusable Executive Reporting Template  
+
+The analysis moves from macro-level global exposure patterns to country benchmarking and city-level AQI distribution to uncover concentration clusters and dominant pollutant drivers.
 
 ---
 
