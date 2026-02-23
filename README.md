@@ -94,3 +94,7 @@ Country-level alone was insufficient to fully explain patterns, so city-level se
 ### 🌍 Global PM2.5 Distribution
 ![Global PM2.5 Map](assets/projection-map.png)
 
+### 📊 Country-Level Exposure Ranking
+![Country Ranking](assets/country-ranking.png)
+
+
