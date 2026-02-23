@@ -66,10 +66,17 @@ Country-level alone was insufficient to fully explain patterns, so city-level se
 
 ## 🧠 Key Insights
 
-- PM2.5 exposure is unevenly distributed globally
-- A small set of countries show significantly elevated concentrations
-- Most cities fall within moderate AQI ranges, but a minority face severe health risks
-- PM2.5 is a major driver of overall AQI risk in the U.S.
+### 🌍 Uneven Global Exposure
+Global PM2.5 exposure is not uniformly distributed. Geographic clustering reveals sustained high-concentration regions, indicating structural environmental disparities rather than random variation.
+
+### 📊 Concentration Among a Limited Set of Countries
+A relatively small group of countries consistently exceed global average PM2.5 levels, suggesting disproportionate contribution to overall exposure patterns.
+
+### 🍩 City-Level Segmentation Reveals Hidden Risk
+Country-level averages alone masked important variation. City-level AQI distribution clarified that while many cities fall under Moderate exposure, a smaller subset experiences severe or hazardous conditions.
+
+### 🇺🇸 PM2.5 as a Primary AQI Driver
+Pollutant comparison analysis indicates PM2.5 contributes significantly to overall AQI risk in the U.S., outweighing other monitored pollutants in relative impact.
 
 ---
 
